@@ -1,0 +1,20 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Errors tend to happen where there is new code more often that where code is old or nonexistent. Hence, hances of finding bugs in sections that have either changed or changed recently are higher than other sections.
+
+Tools like 'diff' help visualize only the differences and changes. As the eye focuses on smaller section, it makes it simpler to find problems.
+
+---------------------------------------------------
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+It would simplify reverting a change an also observing how tought process and experience affects code development.
+---------------------------------------------------
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Git is a very specialized system; quite useful for coders, but not necessarily to other people. Git can be hard to master.
+
+In contrast, Google Docs' version control is more general-purpose and it includes other features that aim for simplicity and easy adoption.
+--------------------------------------------------
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I'd like to try using Git for experimenting with Chef, command line AWS and programming with Pythion.
